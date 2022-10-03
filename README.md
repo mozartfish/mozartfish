@@ -1,7 +1,6 @@
 👋 Hi, nice to meet you! I'm a BS/MS candidate at the [University of Utah School of Computing](https://www.cs.utah.edu/) studying distributed systems, 
 software engineering and data visualization. Previously, I was a member of the [Utah Visualization Design Lab](https://vdl.sci.utah.edu/) where
-I worked on [MultiMatrix](https://github.com/multinet-app/multimatrix) and [MultiAggr](https://mozartfish.github.io/assets/MultiAggr.pdf) as part of the NSF 
-MultiNet Project [MultiNet](https://github.com/multinet-app) to create tools for visualizing multivariate and analyze multivariate networks. Currently I am working on
+I worked on [MultiMatrix](https://github.com/multinet-app/multimatrix) and [MultiAggr](https://mozartfish.github.io/assets/MultiAggr.pdf) as part of the NSF [MultiNet Project](https://github.com/multinet-app) to create tools for visualizing multivariate networks. Currently I am working on
 implementing a Fault Tolerant Key Value Store built on top of [RAFT](https://raft.github.io/) along with some other distributed systems projects.
 
 Here on my GitHub profile, you'll find mostly visualization and web projects since those are the only ones I can share publicly but I have projects
