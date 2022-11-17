@@ -10,7 +10,7 @@ I like working across all aspects of the technical stack and I am currently usin
 **D3** for visuals, **JavaScript, Python** for analysis and data wrangling, **Golang** for distributed systems, **JavaScript/TypeScript, Vue** for frontend
 and **Python, Golang, C++** for general programming.
 
-**Projects**
+*Projects*
 
 If you'd like to ask questions about my process and projects, collaborate on a project or are hiring new grad software engineering positions, feel free 
 to reach out via  [Twitter](https://twitter.com/thegreenveggie_) or [email](mailto:rajan.pranav320@gmail.com).
