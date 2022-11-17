@@ -7,8 +7,10 @@ Here on my GitHub profile, you'll find mostly visualization and web projects sin
 related to custom programming languages, distributed systems (MapReduce, Raft, Key Value Store), operating systems (modified xv6) that I can share upon request.
 
 I like working across all aspects of the technical stack and I am currently using a combination of the following languages and tools for projects:
-**D3** for visuals, **JavaScript, Python, R** for analysis and data wrangling, **Golang** for distributed systems, **JavaScript/TypeScript, Vue** for frontend
-and **C++** for general programming.
+**D3** for visuals, **JavaScript, Python** for analysis and data wrangling, **Golang** for distributed systems, **JavaScript/TypeScript, Vue** for frontend
+and **Python, Golang, C++** for general programming.
+
+**Projects**
 
 If you'd like to ask questions about my process and projects, collaborate on a project or are hiring new grad software engineering positions, feel free 
 to reach out via  [Twitter](https://twitter.com/thegreenveggie_) or [email](mailto:rajan.pranav320@gmail.com).
