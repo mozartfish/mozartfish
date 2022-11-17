@@ -14,15 +14,15 @@ and **Python, Golang, C++** for general programming.
 Distributed Systems
 - Map Reduce
 - RAFT (Elections, Replication, Persistence)
-- KVRaft - Key-Value Store built on top of my RAFT implementation
+- KVRaft - Key-Value Store built on top of my RAFT implementation<br/>
 Visualization/Front End
 - GapMinder
 - MultiAggr
-- FIFA 2018 Match Summary 
+- FIFA 2018 Match Summary <br/>
 Operating Systems
-- xv6-6460 
+- xv6-6460 <br/>
 Programming Languages
-- Curly DSL (Imperative Programming, Types, Functional Programming)
+- Curly DSL (Imperative Programming, Types, Functional Programming)<br/>
 
 
 
