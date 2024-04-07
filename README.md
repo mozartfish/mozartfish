@@ -1,12 +1,13 @@
-**I'm currently on the job market looking for new grad opportunities in fullstack, backend and infrastructure development**. 
+# Hi! I'm Pranav 👋
 
-👋 Hi, nice to meet you! I'm a recent graduate of the University of Utah where I received my BS Computer Science and MS Human Centered Computing(Visualization, HCI, Systems programming). 
+I'm an incoming Machine Learning MSc. student at the KTH Royal Institute of Technology. Previously, I graduated from the University of Utah with a B.S. Computer Science and M.S. Human-Centered Computing(Visualization, HCI, Systems programming). I love classical music, movies, the outdoors and meeting new people and am constantly looking for interdisciplinary ways to synergize my interests with data, people, and technology.
 
+Research + Work Interests: *Machine Learning*, *Visualization*, *tool and interface engineering*, *Creative Coding*
 
+## On the web 
+💻 **Personal Website:** https://mozartfish.netlify.app/ 
+💻 **Blog:** https://mozartfish.github.io/blog/ 
 
-My current interests include machine learning, designing and building visual tools and interfaces for interacting with data, and learning about scalable data systems and algorithms like RAFT, MapReduce, and Spanner. 
-
-Outside of programming I like to play piano, write film reviews and explore the outdoors.
 <!---
 mozartfish/mozartfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
