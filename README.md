@@ -1,7 +1,7 @@
 # Hi! I'm Pranav 👋
 
-I'm an incoming Machine Learning MSc. student at the KTH Royal Institute of Technology. Previously, I graduated from the University of Utah with a B.S. Computer Science and M.S. Human-Centered Computing(Visualization, HCI, Systems programming).
-I love classical music, movies, the outdoors and meeting new people and am constantly looking for interdisciplinary ways to synergize my interests with data, people, and technology.
+I'm a Machine Learning MSc. student at the KTH Royal Institute of Technology. Previously, I graduated from the University of Utah with a B.S. Computer Science and M.S. Human-Centered Computing(Visualization, HCI, Systems programming).
+I love classical music, movies, the outdoors and meeting new people and I am constantly looking for interdisciplinary ways to synergize my interests with data, people, and technology.
 
 Research + Work Interests: *Machine Learning*, *Distributed Systems*, *Visualization*, *Tool and Interface engineering*, *Creative Coding*
 
