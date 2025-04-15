@@ -1,9 +1,10 @@
 # Hi! I'm Pranav 👋
 
-I'm a Machine Learning MSc. student at the KTH Royal Institute of Technology. Previously, I graduated from the University of Utah with a B.S. Computer Science and M.S. Human-Centered Computing(Visualization, HCI, Systems programming).
-I love classical music, movies, the outdoors and meeting new people and I am constantly looking for interdisciplinary ways to synergize my interests with data, people, and technology.
+I'm a current machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. I aspire to build tools and platforms that make data and models more accessible and interpretable. In particular, I am excited about working at the intersection of machine learning, math, interactive visualization, data science and software engineering to help solve problems across data domains. 
 
-Research + Work Interests: *Machine Learning*, *Mechanistic Interpretability*, *Image Analysis/Computer Vision*, *Visualization*, *Creative Coding*, *Tooling*, 
+Outside of school and work, I love classical music, movies, the outdoors, cooking and meeting new people. 
+
+**Work + Research Interests**: *Machine Learning*, *Information Retrieval*, *Generative Modeling*, *Music Informatics*, *Interactive Visualization*, *Deep Learning*, *Natural Language Processing*, *Image Analysis + Computer Vision*, *Tooling*, *High-Dimensional Data*
 
 ## On the web 
 💻 **Personal Website:** https://mozartfish.netlify.app/ 
