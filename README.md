@@ -7,6 +7,8 @@ Outside of school and work, I love classical music, movies, the outdoors, cookin
 **Work + Research Interests**: Interactive Machine Learning, Data Tooling, Computer Vision/Image Processing, Information Retrieval, NLP, Embedding Visualization, High-Dimensional Data, Data Processing
 **Application Interest** - Health, Science, Media(Audio, Video, Photography), Agriculture/Farming, Data Tooling 
 
+
+
 ## On the web 
 💻 **Personal Website:** https://mozartfish.netlify.app/ 
 
