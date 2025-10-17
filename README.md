@@ -1,10 +1,11 @@
 # Hi! I'm Pranav 👋
 
-I'm a final year machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. I am broadly interested in machine learning, systems, visual computing, human-ai interaction especially their intersection. I'm particuarly interested in how we can use visualization, unsupervised learning and ideas from systems, nlp, information retrieval, and big data processing to find structure and patterns in unstructured datasets. 
+I'm a final year machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. I am broadly interested in machine learning, systems(databases, data processing), visualization and human-ai interaction. I'm especially excited about building tools/systems for media, health and science
 
 Outside of school and work, I love classical music, movies, the outdoors, cooking and meeting new people. 
 
-**Work + Research Interests**: *Machine Learning*, *Information Retrieval*, *Generative Modeling*,  *Interactive Visualization*, *Deep Learning*, *Natural Language Processing*, *Tooling*, *High-Dimensional Data*, *Embeddings*
+**Work + Research Interests**: Interactive Machine Learning, Data Tooling, Computer Vision/Image Processing, Information Retrieval, NLP, Embedding Visualization, High-Dimensional Data, Data Processing
+**Application Interest** - Health, Science, Media(Audio, Video, Photography), Agriculture/Farming, Data Tooling 
 
 ## On the web 
 💻 **Personal Website:** https://mozartfish.netlify.app/ 
