@@ -1,8 +1,6 @@
 # Hi! I'm Pranav 👋
 
-I'm a final year machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. I am broadly interested in machine learning, signal processing, visual computing, systems and human-ai interaction especially their intersection. 
-
-I'm especially excited about building tools/systems for media, health and science
+I'm a final year machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. I am broadly interested in machine learning, signal processing, visual computing, systems and human-ai interaction especially their intersection. I'm especially excited about building tools/systems for media, health and science. 
 
 Outside of school and work, I love classical music, movies, the outdoors, cooking and meeting new people. 
 
