@@ -6,7 +6,7 @@ Outside of school and work, I love classical music, movies, the outdoors, cookin
 
 **Work + Research Interests**:  Signal Processing(Audio, Image, Vision), Information(Information Retrieval, Language Engineering), Multimodal Machine Learning, Data Tooling, HAI
 
-**Application Interest** - Creative Technology, Health, Science, Agriculture/Farming
+**Application Interest** - Creative Technology, Health, Science
 
 ## On the web 
 💻 **Personal Website:** https://mozartfish.netlify.app/ 
