@@ -1,12 +1,12 @@
 # Hi! I'm Pranav 👋
 
-I'm a final year machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. I am broadly interested in machine learning, signal processing, visual computing, systems and human-ai interaction especially their intersection. I'm especially excited about building tools/systems for creative technology, health and science. 
+I'm a machine learning masters thesis student at the KTH Royal Institute of Technology RPL Division and TMH Division working on the problem of score-following for indeterminate music within the larger area of intelligent music processing. I am also a final year machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. 
+
+What is intelligent music processing? - it's a bit of everything: audio(music) signal processing, machine learning, human-ai interaction, psychology, physics, visualization, people, global cultures and of course lots and lots of music.... As well as learning random facts like the frequency for tuning an orchestra, what is the best song to test your sound system etc.
+
+Broadly I'm interested in machine learning, signal processing, visualization systems and human-ai interaction especially their intersection. I'm especially excited about building tools/systems for creative technology, health and science. 
 
 Outside of school and work, I love classical music, movies, the outdoors, cooking and meeting new people. 
-
-**Work + Research Interests**:  Signal Processing(Audio, Image, Vision), Information(Information Retrieval, Language Engineering), Multimodal Machine Learning, Data Tooling, HAI
-
-**Application Interest** - Creative Technology, Health, Science
 
 ## On the web 
 💻 **Personal Website:** https://mozartfish.netlify.app/ 
