@@ -1,6 +1,6 @@
 # Hi! I'm Pranav 👋
 
-I'm a machine learning masters thesis student at the KTH Royal Institute of Technology RPL Division and TMH Division working on the problem of score-following for indeterminate music within the larger area of intelligent music processing. I am also a final year machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. 
+I'm a machine learning masters thesis student at the KTH Royal Institute of Technology RPL Division and TMH Division working on the problem of music-alignment and blind-source separation within the area of intelligent music processing. I am also a final year machine learning student at the KTH Royal Institute of Technology in Stockholm, Sweden. 
 
 What is intelligent music processing? - it's a bit of everything: audio(music) signal processing, machine learning, human-ai interaction, psychology, physics, visualization, people, global cultures and of course lots and lots of music.... As well as learning random facts like the frequency for tuning an orchestra, what is the best song to test your sound system etc.
 
